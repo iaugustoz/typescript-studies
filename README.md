@@ -17,7 +17,9 @@ Estudo em andamento.
 
 ## Tópicos de Estudo
 
-- 
+- JavaScript;
+- TypeScript;
+- Angular.
 
 # Projetos
 
@@ -27,7 +29,7 @@ Estudo em andamento.
 
 ## Materiais de Estudos Recomendados
 
-- 
+- [Angular Course - Udemy](https://www.udemy.com/course/curso-de-angular/)
 
 ## Contribuições
 
