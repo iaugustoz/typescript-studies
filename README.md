@@ -17,7 +17,6 @@ Estudo em andamento.
 
 ## Tópicos de Estudo
 
-- JavaScript;
 - TypeScript;
 - Angular.
 
