@@ -1,4 +1,4 @@
-# Palmeiras Store API
+# Meu estudo em Angular
 
 <p align="center">
   <a href="#status-do-estudo">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
