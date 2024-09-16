@@ -9,7 +9,7 @@
 
 ## Descrição
 
-Este repositório foi criado para registrar o meu estudo sobre a linguagem de programação Java. Aqui, documentarei meu progresso, projetos, anotações e recursos úteis relacionados ao Java.
+Este repositório foi criado para registrar o meu estudo sobre a linguagem de programação Angular. Aqui, documentarei meu progresso, projetos, anotações e recursos úteis relacionados ao Angular.
 
 ## Status do estudo
 
