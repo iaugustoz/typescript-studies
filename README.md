@@ -6,7 +6,7 @@ Este repositório contém meus estudos e práticas sobre TypeScript, uma linguag
 
 ## 🚀 Status do Projeto
 
-⚙️ Estudo em andamento.
+✅ Estudo em andamento.
 
 ## 📚 Conteúdo
 
