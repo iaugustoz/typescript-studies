@@ -56,8 +56,7 @@ Cada seção do repositório contém exemplos práticos e explicações detalhad
 
 Alguns materiais que me auxiliaram nos estudos:
 
--
--
+- [Documentação do TypeScript em pt-br](https://www.typescriptlang.org/pt/)
 
 ## 👨‍💻 Autor
 
