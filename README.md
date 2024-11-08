@@ -1,40 +1,65 @@
-# Meu estudo em Angular
+# 🚀 Estudos em TypeScript 🚀
 
-<p align="center">
-  <a href="#status-do-estudo">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tópicos-de-estudo">Tópicos de Estudo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#autor">Autor</a>
-</p>
+## 📜 Descrição
 
-## Descrição
+Este repositório contém meus estudos e práticas sobre TypeScript, uma linguagem de programação que expande o JavaScript ao adicionar tipagem estática, interfaces, classes e outros recursos para tornar o desenvolvimento mais seguro e escalável. A estrutura e o conteúdo foram projetados para documentar meu progresso desde os conceitos básicos até funcionalidades avançadas.
 
-Este repositório foi criado para registrar o meu estudo sobre a linguagem de programação Angular. Aqui, documentarei meu progresso, projetos, anotações e recursos úteis relacionados ao Angular.
+## 🚀 Status do Projeto
 
-## Status do estudo
+⚙️ Estudo em andamento.
 
-Estudo em andamento.
+## 📚 Conteúdo
 
-## Tópicos de Estudo
+Este repositório explora uma variedade de tópicos do TypeScript, como:
 
-- TypeScript;
-- Angular.
+1. **Introdução ao TypeScript**
 
-# Projetos
+- Instalação e configuração (tsconfig.json)
+
+2. **Tipos Primitivos**
+
+- string, number, boolean, any, unknown, void, null, undefined
+
+3. **Tipos Complexos**
+
+- Arrays, Tuplas, Enums, Objetos
+
+4. **Interfaces e Tipos Customizados**
+
+- Definição e diferenças entre interface e type
+
+5. **Classes e Orientação a Objetos**
+
+- Herança, polimorfismo e modificadores de acesso
+
+6. **Funções e Tipagem de Funções**
+
+- Tipagem de parâmetros e valores de retorno, funções genéricas
+
+7. **Tipos Avançados**
+
+- Tipos de união e interseção, genéricos e Type Guards
+
+8. **Modularização**
+
+- Importação e exportação de módulos
+
+Cada seção do repositório contém exemplos práticos e explicações detalhadas para facilitar o aprendizado e a prática.
+
+# 🎨 Projetos
 
 - [Projeto 1]()
 - [Projeto 2]()
 - [Projeto 3]()
 
-## Materiais de Estudos Recomendados
+## 📝 Materiais de Estudos Recomendados
 
-- [Angular Course - Udemy](https://www.udemy.com/course/curso-de-angular/)
+Alguns materiais que me auxiliaram nos estudos:
 
-## Contribuições
+-
+-
 
-Sinta-se à vontade para contribuir com este repositório se você tiver recursos, projetos ou anotações relevantes sobre o estudo de Java. Basta abrir um pull request.
-
-## Autor
+## 👨‍💻 Autor
 
 - Igor Augusto
 - E-mail: igoraugustobz@gmail.com
